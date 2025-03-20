@@ -10,7 +10,7 @@ DataAtlantic is your comprehensive platform dedicated to all things data. We spe
 
 ## Installation
 
-DataAtlantic is a web-based platform accessible through modern web browsers. No installation is required. Simply visit our website at [https://www.dataatlantic.com](https://www.dataatlantic.com) to get started.
+DataAtlantic is a web-based platform accessible through modern web browsers. No installation is required. Simply visit our website to get started.
 
 ## Usage
 
@@ -18,14 +18,8 @@ DataAtlantic is a web-based platform accessible through modern web browsers. No 
 2. **Read Articles**: Visit the 'News' section for the latest articles and updates in the data industry.
 3. **Utilize Resources**: Check out our 'Resources' section for educational content designed to support your professional growth.
 
-## Contributing
 
-We welcome contributions from the community. If you're interested in submitting articles, job postings, or other content, please contact us at [contribute@dataatlantic.com](mailto:contribute@dataatlantic.com).
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
 
-For inquiries, feedback, or support, reach out to us at [support@dataatlantic.com](mailto:support@dataatlantic.com).
